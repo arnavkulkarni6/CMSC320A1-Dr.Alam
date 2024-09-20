@@ -12,4 +12,8 @@ this is collecting data regarding a new medicine. You would have a sample
 group who tests the medicine and another group that doesn't. This will
 allow you to know the true effectiveness of the drug.
 
+Q3: What is the difference between merging and rebasing?
 
+Answer: Merging is putting together two branches/histories to make one. 
+However, rebasing has to do with rewriting one branch's 
+history(addition/deletion).
