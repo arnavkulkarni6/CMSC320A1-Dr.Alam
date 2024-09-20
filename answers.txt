@@ -1,0 +1,6 @@
+Q1: Why might be consider using git?
+
+Answer: I might consider using git as a way to backup all of my projects
+that I have completed over time. Additionally, I would use git to
+collaborate with my peers on projects simultaneously.
+
