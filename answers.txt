@@ -17,3 +17,10 @@ Q3: What is the difference between merging and rebasing?
 Answer: Merging is putting together two branches/histories to make one. 
 However, rebasing has to do with rewriting one branch's 
 history(addition/deletion).
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: The skills I hope to improve during this course is to effectively 
+collect data and use it to tackle potential hypothesis. Additionally, I am 
+interested in Machine Learning and would like to improve my knowledge in 
+the subject.
